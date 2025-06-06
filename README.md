@@ -22,7 +22,6 @@ A deep learning project to predict customer churn using **Artificial Neural Netw
 - **Task**: Binary classification (0 / 1)
 - **Objective**:  
   Predict whether a customer will leave the bank (`Exited = 1`) or stay (`Exited = 0`) based on their profile data like:
-  - CustomerID
   - Gender
   - Age
   - Tenure
