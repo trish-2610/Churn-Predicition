@@ -1,4 +1,4 @@
-# 🔄 Churn Prediction Model using ANN
+# Churn Prediction Model using ANN
 
 A deep learning project to predict customer churn using **Artificial Neural Networks (ANN)**, implemented with **TensorFlow** and **Keras**, and deployed as a web app using **Streamlit**.
 
