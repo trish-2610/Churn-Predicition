@@ -4,7 +4,7 @@ A deep learning project to predict customer churn using **Artificial Neural Netw
 
 ---
 
-## 🧠 Libraries Used
+## Libraries Used
 
 1. **TensorFlow**  
    - Open-source library for end-to-end machine learning projects.  
@@ -16,7 +16,7 @@ A deep learning project to predict customer churn using **Artificial Neural Netw
 
 ---
 
-## 📊 Problem Statement
+## Problem Statement
 
 - **Dataset**: `Churn_Modelling.csv`
 - **Task**: Binary classification (0 / 1)
@@ -30,7 +30,8 @@ A deep learning project to predict customer churn using **Artificial Neural Netw
 
 ---
 
-## 🛠 Project Pipeline
+## 
+Project Pipeline
 
 ```mermaid
 graph LR
